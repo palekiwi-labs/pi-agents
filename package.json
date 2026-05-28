@@ -1,0 +1,26 @@
+{
+  "name": "pi-agents",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pi": {
+    "extensions": [
+      "./src/extension/index.ts"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palekiwi-labs/pi-agents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/palekiwi-labs/pi-agents/issues"
+  },
+  "homepage": "https://github.com/palekiwi-labs/pi-agents#readme"
+}
