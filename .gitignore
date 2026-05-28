@@ -1,0 +1,9 @@
+node_modules/
+
+package-lock.json
+
+.direnv
+.envrc
+.mem
+cast.json
+tags
