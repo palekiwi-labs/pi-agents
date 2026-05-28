@@ -8,7 +8,7 @@
   },
   "pi": {
     "extensions": [
-      "./src/extension/index.ts"
+      "./src/index.ts"
     ]
   },
   "repository": {
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/palekiwi-labs/pi-agents/issues"
   },
-  "homepage": "https://github.com/palekiwi-labs/pi-agents#readme"
+  "homepage": "https://github.com/palekiwi-labs/pi-agents#readme",
+  "dependencies": {
+    "@earendil-works/pi-tui": "^0.76.0",
+    "jiti": "^2.7.0",
+    "typebox": "^1.1.39"
+  }
 }
